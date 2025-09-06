@@ -33,8 +33,8 @@ The service is built with the **Django Rest Framework** and leverages a local **
 
 ### Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/arman-007/chatbot-ST
+cd chatbot-ST
 ```
 
 ### Install Dependencies
