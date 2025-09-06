@@ -1,0 +1,35 @@
+Innovate AI Solutions - Pricing Plans
+
+We offer a range of plans to suit your needs, from individual developers to large enterprises. All plans come with our core AI-powered analytics.
+
+== Basic Plan ==
+- Price: Free
+- Features:
+  - 1 User Seat
+  - 50 chatbot interactions per month
+  - Standard email support
+  - Access to community forums
+- Perfect for individuals and hobbyists looking to explore our platform.
+
+== Pro Plan ==
+- Price: $49 per month
+- Features:
+  - Up to 5 User Seats
+  - 2,500 chatbot interactions per month
+  - Priority email and chat support
+  - API Access
+  - Advanced analytics dashboard
+- Our most popular plan, designed for small teams and professionals.
+
+== Enterprise Plan ==
+- Price: Custom Quote
+- Features:
+  - Unlimited User Seats
+  - Unlimited chatbot interactions
+  - Dedicated 24/7 phone and chat support
+  - Custom model integration
+  - On-premise deployment options
+  - Full data security and compliance audit
+- Tailored for large organizations with specific security and scalability requirements. Please contact our sales team for a consultation.
+
+**Discounts:** We offer a 15% discount on all annual subscriptions for the Pro Plan.

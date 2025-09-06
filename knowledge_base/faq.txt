@@ -1,0 +1,16 @@
+Innovate AI Solutions - Frequently Asked Questions (FAQ)
+
+Q: What is Innovate AI Solutions?
+A: Innovate AI Solutions provides a powerful platform for businesses to build and deploy intelligent chatbots. Our service uses Retrieval-Augmented Generation (RAG) to provide accurate answers based on your company's private knowledge base, ensuring relevant and secure customer interactions.
+
+Q: How does the free trial work?
+A: Our Basic Plan is completely free and is not a trial; it allows for 50 chatbot interactions per month. This lets you test our core features indefinitely. If you need more interactions or advanced features, you can upgrade to a paid plan at any time.
+
+Q: Can I upgrade or downgrade my plan at any time?
+A: Yes, you can change your plan whenever you need to. Upgrades are applied immediately, and downgrades take effect at the start of your next billing cycle. You can manage your subscription from your account dashboard.
+
+Q: What kind of customer support do you offer?
+A: Support varies by plan. The Basic plan includes standard email support. The Pro Plan offers priority email and live chat support. Our Enterprise Plan comes with a dedicated account manager and 24/7 premium support via phone and chat.
+
+Q: Is my data secure?
+A: Absolutely. Data security is our top priority. We use industry-standard encryption for data in transit and at rest. For clients with the highest security needs, our Enterprise Plan offers on-premise deployment options, giving you full control over your data environment.
